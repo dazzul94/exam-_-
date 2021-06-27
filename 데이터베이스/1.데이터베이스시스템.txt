@@ -1,0 +1,20 @@
+빅데이터(BIG DATA)
+- 엄청나게 많은 데이터들을 모으고 모아서 분석 // 빅데이터를 분석하여 원하는 데이터를 도출하는 과정을 데이터 마이닝(Data mining)이라고 한다.
+
+데이터베이스의 특징 
+- 통합(Integrated) 저장(Stored)되어 운영(Operational)되는 공용(Shared) 데이터(Data) 
+
+데이터베이스의 특성 4가지 
+- 실시간 접근성(Real-time Accessibility), 계속적인 변화(Continuous Evolution), 동시공용(Concurrent Sharing), 내용에 의한 참조(Contents Reference)
+
+데이터베이스 관리 시스템(DBMS)의 특징 
+- 중복의 최소화, 데이터 공동이용(공유성),  데이터 일관성 유지, 데이터 무결성(=정합성) 유지, 데이터 보안 유지
+
+데이터베이스 사용자 
+- 데이터베이스 관리자(DBA), 응용 프로그래머(Application Programmer), 일반 사용자(User) // 데이터 관리자(DA)는 실제 업무를 분석하고 데이터 프로세스를 설계하는 사람
+
+스키마(Schema) 
+- 데이터베이스의 구조나 제약조건 등을 구체화한 것
+
+스키마의 종류 
+- 개념 스키마(Conceptual Schema), 외부 스키마(External Schema)(=외부 뷰, 서브스키마), 내부 스키마(Internal Schema)
